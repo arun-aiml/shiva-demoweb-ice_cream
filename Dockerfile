@@ -3,3 +3,4 @@ COPY . /usr/local/apache2/htdocs/
 MAINTAINER name shiva
 LABEL this is shiva's demo ice cream web
 WORKDIR /app
+EXPOSE 80
